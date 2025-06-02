@@ -8,8 +8,8 @@
 
 ---
 
-- 🔭 Currently working on: **Backend apps and data projects**
-- 🌱 Currently learning: **C#, Python, SQL**
+- 🔭 Currently working on: **Backend apps **
+- 🌱 Currently learning: **C#, SQL**
 - 📫 How to reach me: **[linkedin.com/in/ahmed-ragab-a7041b34b]**
 - 🔗 ORCID iD: [0009-0004-5088-6230](https://orcid.org/0009-0004-5088-6230)
 
