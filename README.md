@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Back-End+Developer;Data+Analyst+in+progress;Learning+C%2B%2B%2C+C%23+and+Python;Always+learning+new+things!&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Back-End+Developer;Learning+C%2B%2B%2C+C%23+and+Python;Always+learning+new+things!&center=true&width=500&height=50">
 </h3>
 
 ---
